@@ -1,0 +1,1 @@
+var Button=function(){};Button.prototype.setElement=function(){console.log(3)};

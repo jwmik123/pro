@@ -1,0 +1,1 @@
+var students=["jeboyQuent","jeboyJoel","jeboyDon","jeboyDuuc"];students.forEach(function(o){console.log(o)});

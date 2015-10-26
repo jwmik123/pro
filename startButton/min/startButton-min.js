@@ -1,0 +1,1 @@
+var startButton=new Button;startButton.setElement("#startButton");

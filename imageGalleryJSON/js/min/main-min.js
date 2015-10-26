@@ -1,0 +1,1 @@
+window.addEventListener("load",function(){var a=new ImageGallery("#imageGallery"),e=["images/01.jpg","images/02.jpg","images/03.jpg","images/04.jpg"];a.setData(e),a.loadData("http://sdlfkjsdflksdfj.nl/gallery.php")});
